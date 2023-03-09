@@ -170,7 +170,7 @@
     4. Uncover software errors 
  
 27. Failure is _________ 
-    1. Incorrect program behavior due to a fault in the program 
+    1. Inprogram behavior due to a fault in the program 
     2. Bug found before product Release 
     3. Bug found after product Release 
     4. Bug found during Design phase 
@@ -431,7 +431,7 @@ eIt depends on the risks for the system being tested
     2. Because verification and validation are not enough to get to know the quality of the software 
     3. Because testing measures the quality of the software system and helps to increase the quality 
     4. Because testing finds more defects than reviews and inspections. 
-    5. I, II and IV are correct 
+    5. I, II and IV are 
 
 26. In foundation level syllabus you will find the main basic principles of testing. Which of the following sentences describes one of these basic principles? 
     1. Complete testing of software is attainable if you have enough resources and test tools 
@@ -472,8 +472,8 @@ eIt depends on the risks for the system being tested
 32. A failure is: 
     1. Found in the software; the result of an error. 
     2. Departure from specified behavior. 
-    3. An incorrect step, process or data definition in a computer program. 
-    4. A human action that produces an incorrect result. 
+    3. An instep, process or data definition in a computer program. 
+    4. A human action that produces an inresult. 
 
 33. Which of the following should NOT normally be an objective for a test? 
     1. To find faults in the software. 
@@ -767,7 +767,7 @@ eIt depends on the risks for the system being tested
 
 36. Which of the following statements is true? 
     1. Testing cannot prove that software is incorrect. 
-    2. Testing can prove that software is either correct or incorrect. 
+    2. Testing can prove that software is either or incorrect. 
     3. Testing cannot prove that software is correct. 
     4. Testing can prove that software is correct. 
 
@@ -805,7 +805,7 @@ eIt depends on the risks for the system being tested
 1. Why should expected results be defined before execution? 
     1. To assist in test automation 
     2. To improve test efficiency 
-    3. To reduce the possibility of incorrect results 
+    3. To reduce the possibility of inresults 
     4. To improve design of the software 
 
 2. Which of the following activities would NORMALLY be undertaken during test planning? 
@@ -839,7 +839,7 @@ eIt depends on the risks for the system being tested
     3. c, b, d, a, e 
     4. b, c, d, e, a 
 
-5. The list below (a to e) describes one major task for each of the five main activities of the fundamental test process. Which option (A to D) places the tasks in the correct order, by time? 
+5. The list below (a to e) describes one major task for each of the five main activities of the fundamental test process. Which option (A to D) places the tasks in the order, by time? 
     - a. Create bi-directional traceability between test basis and test cases. 
     - b. Check test logs against exit criteria. 
     - c. Define the objectives of testing. 
@@ -916,8 +916,7 @@ eIt depends on the risks for the system being tested
     3. Creating test suites from test procedures. 
     4. Analyzing lessons learned for process improvement. 
  
-15. Below is a list of problems that can be observed during testing or operation. 
-Which is MOST likely a failure? 
+15. Below is a list of problems that can be observed during testing or operation. Which is MOST likely a failure? 
     1. The product crashed when the user selected an option in a dialog box. 
     2. One source code file included in the build was the wrong version. 
     3. The computation algorithm used the wrong input variables. 
@@ -974,45 +973,45 @@ Which is MOST likely a failure?
 
 ## Answers
 
-| Set 1 | Correct Answer | Set 2 | Correct Answer | Set 3 | Correct Answer | Set 4 | Correct Answer |
+| Set 1 | Answer | Set 2 | Answer | Set 3 | Answer | Set 4 | Answer |
 | ---- | --- | --- | --- | --- | --- | --- | --- |
-| 1  |  | 1  | C | 1  |  | 1  |  |
-| 2  |  | 2  | B | 2  |  | 2  |  |
-| 3  |  | 3  | D | 3  |  | 3  |  |
-| 4  |  | 4  | B | 4  |  | 4  |  |
-| 5  |  | 5  | C | 5  |  | 5  |  |
-| 6  |  | 6  | A | 6  |  | 6  |  |
-| 7  |  | 7  | A | 7  |  | 7  |  |
-| 8  |  | 8  | C | 8  |  | 8  |  |
-| 9  |  | 9  | D | 9  |  | 9  |  |
-| 10 |  | 10 | C | 10 |  | 10 |  |
-| 11 |  | 11 | D | 11 |  | 11 |  |
-| 12 |  | 12 | D | 12 |  | 12 |  |
-| 13 |  | 13 | C | 13 |  | 13 |  |
-| 14 |  | 14 | A | 14 |  | 14 |  |
-| 15 |  | 15 | C | 15 |  | 15 |  |
-| 16 |  | 16 | C | 16 |  | 16 |  |
-| 17 |  | 17 | D | 17 |  | 17 |  |
-| 18 |  | 18 | B | 18 |  | 18 |  |
-| 19 |  | 19 | D | 19 |  | 19 |  |
-| 20 |  | 20 | B | 20 |  | 20 |  |
-| 21 |  | 21 | A | 21 |  | 21 |  |
-| 22 |  | 22 | C? | 22 |  | 22 |  |
-| 23 |  | 23 | A | 23 |  | 23 |  |
-| 24 |  | 24 | D | 24 |  | 24 |  |
-| 25 |  | 25 | C | 25 |  | 25 |  |
-| 26 | D | 26 |  | 26 |  | 26 |  |
-| 27 | A | 27 |  | 27 |  | 27 |  |
-| 28 | C | 28 |  | 28 |  | 28 |  |
-| 29 | C | 29 |  | 29 |  | 29 |  |
-| 30 | C | 30 |  | 30 |  | 30 |  |
-| 31 | D | 31 |  | 31 |  | 31 |  |
-| 32 | ? | 32 |  | 32 |  | 32 |  |
-| 33 | B | 33 |  | 33 |  | 33 |  |
-| 34 | C | 34 |  | 34 |  | 34 |  |
-| 35 | D | 35 |  | 35 |  | 35 |  |
-| 36 | B | 36 |  | 36 |  | 36 |  |
-| 37 | D | 37 |  | 37 |  | 37 |  |
-| 38 | B | 38 |  | 38 |  | 38 |  |
-| 39 | E | 39 |  | 39 |  | 39 |  |
-| 40 | B | 40 |  | 40 |  | 40 |  |
+| 1  | A | 1  | C | 1  | A | 1  | C |
+| 2  | A | 2  | B | 2  | C | 2  | B |
+| 3  | B | 3  | D | 3  | B | 3  | D |
+| 4  | A | 4  | B | 4  | B | 4  | A |
+| 5  | B | 5  | C | 5  | C | 5  | C |
+| 6  | B | 6  | A | 6  | B | 6  | B |
+| 7  | A | 7  | A | 7  | D | 7  | D? |
+| 8  | D | 8  | C | 8  | D | 8  | A |
+| 9  | D | 9  | D | 9  | C | 9  | A |
+| 10 | D | 10 | C | 10 | D | 10 | C |
+| 11 | A | 11 | D | 11 | C | 11 | D |
+| 12 | D | 12 | D | 12 | B | 12 | A |
+| 13 | A | 13 | C | 13 | A | 13 | C |
+| 14 | B | 14 | A | 14 | B | 14 | B |
+| 15 | D | 15 | C | 15 | A | 15 | A |
+| 16 | B | 16 | C | 16 | B | 16 | C |
+| 17 | B | 17 | D | 17 | A | 17 | B |
+| 18 | A | 18 | B | 18 | B | 18 | D |
+| 19 | C | 19 | D | 19 | B | 19 | C |
+| 20 | C | 20 | B | 20 | C | 20 | C |
+| 21 | B | 21 | A | 21 | A | 21 | C |
+| 22 | D | 22 | C? | 22 | C | 22 | E |
+| 23 | A | 23 | A | 23 | B | 23 |  |
+| 24 | C | 24 | D | 24 | D | 24 |  |
+| 25 | B | 25 | C | 25 | D | 25 |  |
+| 26 | D | 26 | A | 26 | D | 26 |  |
+| 27 | A | 27 | B | 27 | A | 27 |  |
+| 28 | C | 28 | A | 28 | A | 28 |  |
+| 29 | C | 29 | B? | 29 | C | 29 |  |
+| 30 | C | 30 | B | 30 | D | 30 |  |
+| 31 | D | 31 | B | 31 | D | 31 |  |
+| 32 | ? | 32 | D | 32 | A | 32 |  |
+| 33 | B | 33 | A | 33 | C | 33 |  |
+| 34 | C | 34 | B | 34 |  | 34 |  |
+| 35 | D | 35 | B | 35 | D | 35 |  |
+| 36 | B | 36 | A | 36 | C | 36 |  |
+| 37 | D | 37 | D | 37 | D | 37 |  |
+| 38 | B | 38 | A | 38 | A | 38 |  |
+| 39 | E | 39 | C | 39 | B | 39 |  |
+| 40 | B | 40 | B | 40 | B | 40 |  |
