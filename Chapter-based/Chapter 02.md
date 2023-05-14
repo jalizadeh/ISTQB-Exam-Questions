@@ -185,7 +185,7 @@
     3. I, III and IV 
     4. I and II 
 
-28.  ______ is a very early build intended for limited distribution to a few key customers and to marketing for demonstration purposes. 
+28. ____ is a very early build intended for limited distribution to a few key customers and to marketing for demonstration purposes. 
     1. Alpha release 
     2. Beta release 
     3. Test release document 
@@ -234,7 +234,7 @@
     - y) When the environment has changed 
     - z) When the project manager says 
 
-    1. v & w are true, x – z are false 
+    1. v & w are true, x & z are false 
     2. w, x & y are true, v & z are false 
     3. w & y are true, v, x & z are false 
     4. w is true, v, x y and z are false 
@@ -1051,11 +1051,11 @@
 
 | Set 1 | Answer | Set 2 | Answer | Set 3 | Answer | Set 4 | Answer |
 | ---- | --- | --- | --- | --- | --- | --- | --- |
-| 1  | B | 1  | E | 1  |   | 1  |   |
-| 2  | D | 2  | C | 2  |   | 2  |   |
-| 3  | B | 3  | D | 3  |   | 3  |   |
-| 4  | A | 4  | B | 4  |   | 4  |   |
-| 5  | B | 5  | A | 5  |   | 5  |   |
+| 1  | B | 1  | E | 1  | A | 1  |   |
+| 2  | D | 2  | C | 2  | B | 2  |   |
+| 3  | B | 3  | D | 3  | C | 3  |   |
+| 4  | A | 4  | B | 4  | C | 4  |   |
+| 5  | B | 5  | A | 5  | B | 5  |   |
 | 6  | B | 6  | B | 6  |   | 6  |   |
 | 7  | C | 7  | A | 7  |   | 7  |   |
 | 8  | B | 8  | C | 8  |   | 8  |   |
